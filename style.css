@@ -1,0 +1,37 @@
+.center {
+    position: absolute;
+    /* padding: 30px; */
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+  .rounded{
+    border:2px solid red;
+    border-radius:100%;
+    padding:5px;
+    text-align:center;
+    margin:5px;
+  }
+  
+  form{
+      width:20%;
+      padding: 2%;
+      background-color: #e6e6e6;
+  }
+
+  input{
+      margin:1%;
+  }
+
+
+  .btn{
+      background-color:darkseagreen;
+      padding: 2%;
+      border: none;
+  }
